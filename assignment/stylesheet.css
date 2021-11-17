@@ -1,3 +1,9 @@
 header {
   background-color: lightgray;
 }
+.info {
+  background-color: blue;
+  color: lightblue;
+  text-align: center;
+  font-size: 30px;
+}
