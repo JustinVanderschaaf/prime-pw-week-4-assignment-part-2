@@ -7,3 +7,11 @@ header {
   text-align: center;
   font-size: 30px;
 }
+h3 {
+  background-color: lightblue;
+  text-align: center;
+  font-size: 24px;
+}
+body {
+  background-color: black;
+}
